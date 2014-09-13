@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">Hello World, TipsterActivity!</string>
+    <string name="hello">Hello ECLIPSE, TipsterActivity! AB 12.Spt </string>
     <string name="app_name">Tipster</string>
     
     <string name="textLbl1">Total amount:</string>
